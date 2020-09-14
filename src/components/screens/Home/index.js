@@ -6,6 +6,7 @@ function Home() {
     return (
         <div className="Home">
             <h1>Home</h1>
+            <h2>TESTING THE UPDATING</h2>
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
                 <p>
