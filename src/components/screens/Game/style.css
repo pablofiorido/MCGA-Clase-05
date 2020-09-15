@@ -1,5 +1,13 @@
-.circle{
-height: 10px;
-width: 10px;
-color: red;
+.circle {
+    width: 40px;
+    height: 40px;
+    margin: 10px 0;
+    border-radius: 40px;
+    background-color: #FFF;
+}
+
+.board {
+  background-color: blue;
+  margin-left: 530px;
+  margin-right: 530px;
 }
