@@ -1,0 +1,7 @@
+.SignInForm label{
+text-transform: uppercase;
+}
+
+.SignInForm input{
+margin: 10px;
+}
